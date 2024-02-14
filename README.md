@@ -26,7 +26,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=estarr626&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hi! I'm Elliot Starr</h1>
+<h1 align="center">Hi! I'm Ellie Starr</h1>
+
+<p>I'm a software engineer, and love all things tech. I grew up with video games, and got into coding originally with the intent to start making my own! From there I decided to pursue coding as a career path, because I absolutely loved doing it. Outside of programming I still love video games, as well as a regular player of TTRPGs like D&D and Pathfinder, and a home cook!</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
